@@ -2,7 +2,7 @@ from googletrans import Translator
 from config import TOKEN
 from aiogram.types import Message,CallbackQuery
 from button import *
-
+# 
 tarjima = Translator()
 # birinchi korinish
 
